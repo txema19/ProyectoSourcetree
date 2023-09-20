@@ -1,2 +1,2 @@
 # ProyectoSourcetree
-Practica de Sourcetree con Ginny
+Practica de Sourcetree con Ginni
